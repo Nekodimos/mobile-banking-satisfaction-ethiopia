@@ -9,7 +9,7 @@ This research project investigates how mobile banking payment usability and tran
 | Name | ID |
 | :--- | :--- |
 | Abrham Mehari | UGR/7169/17 |
-| Adonay Teferi | UGR/0128/17 |
+| Adonay Teferi | UGR/0142/17 |
 | Dawit Tekeba | UGR/2102/17 |
 | Eyosiyas Daniel | UGR/6106/17 |
 | Nekodimos Million | UGR/1428/17 |
